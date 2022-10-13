@@ -1,0 +1,9 @@
+{
+  "name": "dependabot-yarn-lfs-fixture",
+  "version": "0.0.0",
+  "main": "index.js",
+  "packageManager": "yarn@3.2.4",
+  "dependencies": {
+    "@foxglove/crc": "0.0.3"
+  }
+}
